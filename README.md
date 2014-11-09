@@ -42,6 +42,7 @@ P.S. Tropicraft is BANNED! (Nice try, Leonard)
 •Metallurgy
 •MineFactory Reloaded
 •Modular Force Field System (MFFS)
+•Natura
 •NEI
 •NEI Addons
 •OpenBlocks
