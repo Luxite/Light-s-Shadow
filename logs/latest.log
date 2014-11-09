@@ -1,0 +1,35 @@
+[10:56:43] [main/INFO]: Setting user: MagicDogGuy
+[10:56:44] [Client thread/INFO]: LWJGL Version: 2.9.1
+[10:56:53] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Ars Magica 2, FMLFileResourcePack:BC Builders, FMLFileResourcePack:BuildCraft, FMLFileResourcePack:BC Energy, FMLFileResourcePack:BC Factory, FMLFileResourcePack:BC Silicon, FMLFileResourcePack:BC Transport, FMLFileResourcePack:IndustrialCraft 2, FMLFileResourcePack:Thaumcraft, FMLFileResourcePack:Baubles
+[10:57:00] [Sound Library Loader/INFO]: Sound engine started
+[10:57:00] [Client thread/WARN]: File arsmagica2:sounds/spell/loop/none.ogg does not exist, cannot add it to event arsmagica2:spell.loop.none
+[10:57:04] [Client thread/INFO]: Created: 1024x1024 textures/blocks-atlas
+[10:57:06] [Client thread/INFO]: Created: 2048x1024 textures/items-atlas
+[10:57:09] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Ars Magica 2, FMLFileResourcePack:BC Builders, FMLFileResourcePack:BuildCraft, FMLFileResourcePack:BC Energy, FMLFileResourcePack:BC Factory, FMLFileResourcePack:BC Silicon, FMLFileResourcePack:BC Transport, FMLFileResourcePack:IndustrialCraft 2, FMLFileResourcePack:Thaumcraft, FMLFileResourcePack:Baubles
+[10:57:10] [Client thread/ERROR]: Using missing texture, unable to load arsmagica2:textures/items/spells/components/Nauseate.png, java.io.FileNotFoundException
+[10:57:11] [Client thread/ERROR]: Using missing texture, unable to load arsmagica2:textures/items/spells/components/ScrambleSynapses.png, java.io.FileNotFoundException
+[10:57:11] [Client thread/INFO]: Created: 2048x2048 textures/items-atlas
+[10:57:14] [Client thread/INFO]: Created: 1024x1024 textures/blocks-atlas
+[10:57:15] [Client thread/WARN]: File arsmagica2:sounds/spell/loop/none.ogg does not exist, cannot add it to event arsmagica2:spell.loop.none
+[10:57:15] [Sound Library Loader/INFO]: Sound engine started
+[10:58:13] [Server thread/INFO]: Starting integrated minecraft server version 1.7.10
+[10:58:13] [Server thread/INFO]: Generating keypair
+[10:58:14] [Server thread/INFO]: Preparing start region for level 0
+[10:58:15] [Server thread/INFO]: Changing view distance to 12, from 10
+[10:58:16] [Server thread/INFO]: MagicDogGuy[local:E:d788d7c6] logged in with entity id 68 at (780.551557769249, 4.0, 141.32208064587448)
+[10:58:16] [Server thread/INFO]: MagicDogGuy joined the game
+[10:58:19] [Server thread/INFO]: Saving and pausing game...
+[10:58:19] [Server thread/INFO]: Saving chunks for level 'New World'/Overworld
+[10:58:19] [Server thread/INFO]: Saving chunks for level 'New World'/Nether
+[10:58:19] [Server thread/INFO]: Saving chunks for level 'New World'/The End
+[10:59:34] [Server thread/INFO]: Saving and pausing game...
+[10:59:34] [Server thread/INFO]: Saving chunks for level 'New World'/Overworld
+[10:59:34] [Server thread/INFO]: Saving chunks for level 'New World'/Nether
+[10:59:34] [Server thread/INFO]: Saving chunks for level 'New World'/The End
+[10:59:34] [Server thread/INFO]: Stopping server
+[10:59:34] [Server thread/INFO]: Saving players
+[10:59:34] [Server thread/INFO]: Saving worlds
+[10:59:34] [Server thread/INFO]: Saving chunks for level 'New World'/Overworld
+[10:59:34] [Server thread/INFO]: Saving chunks for level 'New World'/Nether
+[10:59:34] [Server thread/INFO]: Saving chunks for level 'New World'/The End
+[11:00:05] [Client thread/INFO]: Stopping!
