@@ -11,6 +11,8 @@ Enjoy.
 
 Sincerely 
 Doggychow and Luxite
+
+P.S. Tropicraft is BANNED! (Nice try, Leonard)
                                                                   
 -List of Mods-
 
